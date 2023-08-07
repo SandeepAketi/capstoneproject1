@@ -89,7 +89,7 @@
   font-size: 60px;
 }
 .w1{
-  height: 100px;
+  height: 50px;
   width: 100%;
   background-color: white;
 }
@@ -135,7 +135,7 @@ span{
     border-radius: 100%;
 }
 .w2{
-  height: 100px;
+  height: 50px;
   width: 100%;
   background-color: white;
 }
@@ -285,7 +285,7 @@ span{
   color: black;
 }
 .w3{
-  height: 100px;
+  height: 50px;
   width: 100%;
   background-color: white;
 }
@@ -319,12 +319,12 @@ span{
   margin-right: 200px;
 }
 .w4{
-  height: 100px;
+  height: 50px;
   width: 100%;
   background-color: white;
-  text-align: right;
+ 
   font-size: 20px;
-  margin-left: 72%;
+margin-left: 72%;
 
 
 }
@@ -382,6 +382,12 @@ span{
   text-align: center;
   background-color: lightslategrey;
   font-size: 20px;
+  
+ }
+ .n3{
+  height: 500px;
+  width: 600px;
+  float: right;
  }
  .n1{
   height: 500px;
@@ -397,3 +403,19 @@ span{
   background-color: black;
   color: white;
  }
+.div-up-css{
+  margin-top: 20px;
+    margin-left: 18px;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 100px;
+
+}
+.butt-sc{
+    height:50px;
+    width: 350px;
+    margin: 100px;
+    background: blue;
+    color: white;
+    border-radius: 9px;
+}
